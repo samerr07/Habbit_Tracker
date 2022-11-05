@@ -1,3 +1,6 @@
+# View page Live at : https://sameer07habbit.netlify.app/
+
+
 # Habbit Tracker
 
 This is Habbit Tracker App .This app is built by using ReactJs , HTML , JavaScript. It gives brief summary of performance for last week, current week, current day and all time.
